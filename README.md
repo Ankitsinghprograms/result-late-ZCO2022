@@ -12,13 +12,14 @@
 
 # Follow these steps to use
 
-### I am assuming you download python
+### I am assuming you downloaded python
 
 1. Copy code from zco2022.py and save in computer as  zco2022.py or blahblahblah.py
 
 2. pip install requests (in terminal) 
  
 3. Run code in Vscode/Terminal or anything 
+
 
 # Note- Dont close terminal/vscode after running program. If program dont work run it again. 
  
