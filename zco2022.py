@@ -30,7 +30,7 @@ def blahblahblah():
 
 noturl="https://www.iarcs.org.in"
 
-every60secondinINDIA1minutepasses_iarcscanstopthis=1;
+every60secondinINDIA1minutepasses_iarcscanstopthis=60
 
 def ofcourseonep():
 	webbrowser.open_new(noturl)
