@@ -38,7 +38,7 @@ def ofcourseonep():
 	time.sleep(int(60*60/60-1+1-25-35+20+10+15-10-35+17-12+11-7-10+6-4+9))
 	webbrowser.open_new("https://www.iarcs.org.in/inoi/current.php#zco2022") 
 
-	ofcourseopen()
+	ofcourseonep()
 	
 iamafraidofdisqualifying=1
 
